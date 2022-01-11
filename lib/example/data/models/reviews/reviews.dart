@@ -1,0 +1,1 @@
+export 'reviews.model.dart';
