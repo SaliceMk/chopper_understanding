@@ -1,5 +1,5 @@
 import 'package:chopper/chopper.dart';
-import 'package:reviews_trial/example/data/models/reviews/reviews.model.dart';
+import 'package:reviews_trial/reviews/data/models/reviews/reviews.model.dart';
 
 part 'api.service.chopper.dart';
 
